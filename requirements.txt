@@ -1,4 +1,4 @@
-Django==2.0.1
+Django==2.2.24
 django-widget-tweaks==1.4.8
 datefinder==0.7.1
 datetime==4.3
